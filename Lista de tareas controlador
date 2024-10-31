@@ -1,0 +1,17 @@
+git config
+
+git init
+
+cd
+
+cargo install git-task
+
+git config --global alias.task Lista Tareas
+
+git task create Tarea1
+
+git task pull
+
+git task list
+
+git task show 1
